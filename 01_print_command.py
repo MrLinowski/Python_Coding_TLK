@@ -1,7 +1,11 @@
 # This is my first code ever
 print("Hello Class")
 myName = input("What is your name? :")
+print("Hello", myName)
+
+
 # this is a
+# slksjdflksjdf
 
 #I added an age variable Feb 19 ,2025
 myAge = input("What is your age? :")
