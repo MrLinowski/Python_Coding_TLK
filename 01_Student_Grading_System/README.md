@@ -1,5 +1,6 @@
-Start
+Start 
 Prompt the user to enter their score (out of 100).
+
 Store the score in a variable called score.
 If the score is greater than or equal to 90:
 Print "Grade: A"
