@@ -3,8 +3,8 @@
 # Purpose:     Determines a grade based on a given score
 #
 # Author:      Mr. Linowski
-# Created:     14-Aug-2018
-# Updated:     28-Sep-2018
+# Created:     27-Feb-2025
+# Updated:     28-Feb-2025
 #-----------------------------------------------------------------------------
 # Ask the user to enter their score
 score = int(input("Please enter your score out of 100: "))
